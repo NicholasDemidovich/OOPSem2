@@ -1,0 +1,5 @@
+0  Ernst&Young  300  auditCompany
+1  Google  200000  commercial
+2  Telegram  30000  messenger
+3  Yahoo  900000  commercial
+4  Netflix 300000 onlineCinema

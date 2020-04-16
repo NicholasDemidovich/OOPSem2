@@ -1,0 +1,4 @@
+Kirov  200
+Kazuro  500
+Petrov  150
+Lutov  450
